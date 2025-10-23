@@ -49,3 +49,4 @@ print("Python Version:", sys.version)
 print("Python Executable Path:", sys.executable)
 print("Command-line Arguments:", sys.argv)
 
+
