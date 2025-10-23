@@ -15,3 +15,9 @@ x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
 z = int(input("Enter third number: "))
 print("Largest:", max(x, y, z))
+
+
+
+def square(num):
+    return num * num
+print("Square of 5:", square(5))
