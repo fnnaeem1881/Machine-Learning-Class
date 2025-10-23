@@ -11,3 +11,7 @@ text = "Mehedi Hasan"
 for char in text:
     print(char)
 print()
+
+for i in range(2, 21, 2):
+    print(i, end=" ")
+print("\n")
