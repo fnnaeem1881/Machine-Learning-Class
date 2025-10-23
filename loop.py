@@ -22,3 +22,10 @@ while w <= 5:
     print(w)
     w += 1
 print()
+
+
+j = 5
+while j > 0:
+    print(j)
+    j -= 1
+print()
