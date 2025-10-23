@@ -6,3 +6,8 @@ fruits = ["Apple", "Banana", "Orange", "Mango"]
 for fruit in fruits:
     print(fruit)
 print()
+
+text = "Mehedi Hasan"
+for char in text:
+    print(char)
+print()
