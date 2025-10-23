@@ -15,3 +15,10 @@ print()
 for i in range(2, 21, 2):
     print(i, end=" ")
 print("\n")
+
+
+w = 1
+while w <= 5:
+    print(w)
+    w += 1
+print()
